@@ -1,6 +1,6 @@
 # Crypto Clustering Challenge
 
-This challenege focuses on unsupervised machine learning. There are two jupyter notebooks. One followed the assigment direction almost exactly and the other I created two functions that caluclated the interia values and put them into a DataFrame and another that took the best K and created a Frame with the clustering values added to the orginal. Both are included here. 
+This challenge focuses on unsupervised machine learning. There are two jupyter notebooks. One followed the assigment direction almost exactly and the other I created two functions. The first, caluclated the interia values and put them into a DataFrame to be used for plotting the elbow curve. The other  took the best K number and created a DataFrame with the clustering values added to the orginal as to be used for plotting. Both notebooks are included here. 
 
 ![Screen Shot 2023-07-29 at 2 39 21 PM](https://github.com/PsCushman/crypto-clustering-challenge/assets/122395437/81ed3e1c-977d-4eb2-9118-46235f4c87d9)
 
