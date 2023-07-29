@@ -24,7 +24,7 @@ Plot a line chart with all the inertia values computed with the different values
 
 ![Screen Shot 2023-07-29 at 2 40 57 PM](https://github.com/PsCushman/crypto-clustering-challenge/assets/122395437/6a7b37cf-6f57-474c-9929-6284d81357a6)
 
-Answer the following question in your notebook: What is the best value for k? ##4
+Answer the following question in your notebook: What is the best value for k? **4**
 
 Cluster Cryptocurrencies with K-means Using the Original Scaled Data
 Use the following steps to cluster the cryptocurrencies for the best value for k on the original scaled data:
@@ -51,7 +51,7 @@ Retrieve the explained variance to determine how much information can be attribu
 
 ![Screen Shot 2023-07-29 at 2 43 21 PM](https://github.com/PsCushman/crypto-clustering-challenge/assets/122395437/7d674452-c9db-422f-bb71-92c744c46440)
 
-What is the total explained variance of the three principal components? ## 0.8950
+What is the total explained variance of the three principal components? **0.8950**
 
 Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
@@ -67,8 +67,8 @@ Plot a line chart with all the inertia values computed with the different values
 ![Screen Shot 2023-07-29 at 2 45 38 PM](https://github.com/PsCushman/crypto-clustering-challenge/assets/122395437/a3a1c8ec-86e1-4c67-9a32-0db2ac4faa43)
 
 Answer the following question in your notebook:
-What is the best value for k when using the PCA data? ## 4
-Does it differ from the best k value found using the original data? ## NO
+What is the best value for k when using the PCA data? **4**
+Does it differ from the best k value found using the original data? **NO**
 
 Cluster Cryptocurrencies with K-means Using the PCA Data
 Use the following steps to cluster the cryptocurrencies for the best value for k on the PCA data:
@@ -90,7 +90,7 @@ Add the "coin_id" column in the hover_cols parameter to identify the cryptocurre
 ![Screen Shot 2023-07-29 at 2 46 58 PM](https://github.com/PsCushman/crypto-clustering-challenge/assets/122395437/97e9688b-2656-4412-9f6e-1e3a9fa26523)
 
 Answer the following question:
-What is the impact of using fewer features to cluster the data using K-Means? ## The PCA Data Looks better. It imore clustered together and the outliers are more easily decernable.
+What is the impact of using fewer features to cluster the data using K-Means? **The PCA Data Looks better. It is more clustered together and the outliers are more easily decernable.**
 
 ## Resources
 
