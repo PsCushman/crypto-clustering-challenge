@@ -91,7 +91,3 @@ Add the "coin_id" column in the hover_cols parameter to identify the cryptocurre
 
 Answer the following question:
 What is the impact of using fewer features to cluster the data using K-Means? **The PCA Data Looks better. It is more clustered together and the outliers are more easily decernable.**
-
-## Resources
-
-Since determining PCA values was not covered in class. I did ask ChatGPT for some help there.
