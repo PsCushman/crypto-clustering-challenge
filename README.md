@@ -90,4 +90,4 @@ Add the "coin_id" column in the hover_cols parameter to identify the cryptocurre
 ![Screen Shot 2023-07-29 at 2 46 58 PM](https://github.com/PsCushman/crypto-clustering-challenge/assets/122395437/97e9688b-2656-4412-9f6e-1e3a9fa26523)
 
 Answer the following question:
-What is the impact of using fewer features to cluster the data using K-Means? **Answer: The PCA Data Looks better a little. While the clusters are a little better defined, once you look at the graph when it shared the same scale, it is not that much different. However, the outliers are more easily decernable and look more like outliers.**
+What is the impact of using fewer features to cluster the data using K-Means? **Answer: The PCA Data Looks marginally better. While the clusters are a little better defined, once you look at the graph when it shares the same scale, it is not that much different. However, the outliers are more easily decernable and look more like outliers.**
